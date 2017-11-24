@@ -8,6 +8,10 @@
         "type": "git",
         "url": "https://github.com/Erica-Brock/censorify"
     },
+    "keywords": [
+        "censor",
+        "words"
+    ],
     "dependencies": {},
     "engines": {
         "node": "*"
